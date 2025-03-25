@@ -1,1 +1,0 @@
-https://api.openweathermap.org/data/2.5/weather?q=Nigeria&appid=f04ebfbc9e87c83b21d9ad6d8900ab59
